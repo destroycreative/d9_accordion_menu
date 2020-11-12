@@ -1,0 +1,13 @@
+name: D9 Accordion Menu
+description: Provides accordion navigation menu blocks.
+package: User interface
+type: module
+# core: 8.x
+
+configure: d9_accordion_menu.config
+
+# Information added by Drupal.org packaging script on 2019-06-30
+version: '8.x-3.0'
+core: '8.x'
+project: 'd9_accordion_menu'
+datestamp: 1561881793
